@@ -220,34 +220,10 @@ footer {
     text-align: center;
     padding: 15px 0;
 }
-/* Certificates Section */
-#certificates {
-    padding: 50px 0;
-    background-color: #333;
-    color: white;
-    text-align: center;
-}
-
-.certificates {
-    display: flex;
-    justify-content: center;  /* Center the certificates horizontally */
-    align-items: center;  /* Center the certificates vertically */
-    gap: 20px;  /* Space between certificates */
-}
-
-.certificate-card {
-    text-align: center;
-}
-
 .certificate-image {
     width: 250px;  /* Adjust the size as needed */
     height: auto;
     border-radius: 5px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     margin-bottom: 10px;
-}
-
-.certificate-card h3 {
-    font-size: 18px;
-    color: #00FFFF;
 }
